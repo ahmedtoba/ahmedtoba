@@ -3,7 +3,7 @@
 🚀 **Senior Full Stack Developer** | **.NET** | **Python(Flask)** | **Angular** | **React** | **Vue**  
 💻 Passionate about building **scalable**, **secure**, **robust** and **user-friendly** web applications.  
 🌱 Always learning and exploring new technologies.  
-📫 Let's connect: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com) | [Email](mailto:your.email@example.com)
+📫 Let's connect: [LinkedIn](https://linkedin.com/in/ahmed-toba) | [Email](mailto:ahmedtoba94@gmail.com)
 
 ---
 
